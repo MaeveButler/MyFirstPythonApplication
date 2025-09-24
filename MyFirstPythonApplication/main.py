@@ -1,3 +1,6 @@
+"""Sehr wichtige Beschreibung."""
+
+
 import pygame, sys, math, datetime
 
 windowMargin = 30
@@ -17,8 +20,6 @@ secondCursorLenght = windowWidth/2.0-windowMargin-10
 
 virtualSpeed = 1
 useVirtualTimer = False
-
-"""Sehr wichtige Beschreibung."""
 
 def main():
     pygame.init()
