@@ -4,7 +4,7 @@ API documentation
 main
 ----
 
-.. automodule:: MyFirstPythonApplication.main
+.. automodule:: main
     :members:
     :undoc-members:
     :show-inheritance:
