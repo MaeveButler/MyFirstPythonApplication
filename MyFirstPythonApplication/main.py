@@ -1,4 +1,6 @@
-"""Sehr wichtige Beschreibung."""
+"""
+Sehr wichtige Beschreibung.
+"""
 
 
 import pygame, sys, math, datetime
