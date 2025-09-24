@@ -1,10 +1,10 @@
 API documentation
 =================
 
-.. automodule:: mypackage.module1   #bindet Python-Modul ein
-    :members:                       #zeigt alle Funktionen/Klassen
-    :undoc-members:                 #zeigt auch nicht dokumentierte Funktionen
-    :show-inheritance:              #zeigt Klassenhierarchie
+main
+----
 
-.. automodule:: mypackage.module2
+.. automodule:: mypackage.main
     :members:
+    :undoc-members:
+    :show-inheritance:
